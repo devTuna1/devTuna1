@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #Tech
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoohys">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yoohys" height="165">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fyoohys&count_bg=%233D41C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
