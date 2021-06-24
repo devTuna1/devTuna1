@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohys)](https://github.com/anuraghazra/github-readme-stats)
 
 #Tech
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yoohys" height="165">
