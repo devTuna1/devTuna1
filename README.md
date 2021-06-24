@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=lightyellow&height=300&section=header&text=hyuksang%20yoo&fontSize=70)
+
+# Tech
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yoohys" height="165">
-# Tech
-
 ### BackEnd
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
