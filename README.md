@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=lightyellow&height=300&section=header&text=hyuksang%20yoo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=hyuksang%20yoo&fontSize=70)
 
 # Tech
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhs72358"> -->
@@ -6,8 +6,7 @@
 
 ### BackEnd
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 
 ### DB
 
